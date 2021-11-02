@@ -1,0 +1,29 @@
+.checkoutProduct{
+    display: flex;
+    margin-top:20px ;
+    margin-top: 20px;
+}
+.checkoutProduct_info{
+    padding-left: 20px ;
+}
+.checkoutProduct_info>button{
+background: #f0c14b;
+border : 1px solid ;
+margin-top: 10px ;
+border-color: gold orange tomato;
+color: black ; 
+}
+
+.checkoutProduct_image{
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+}
+.checkoutProduct_rating{
+    display: flex;
+    /* flex-direction: row; */
+}
+.checkoutProduct_title{
+    font-size: 17px;
+    font-weight: 800px;
+}
